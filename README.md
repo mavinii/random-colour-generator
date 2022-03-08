@@ -1,2 +1,5 @@
-# random-colour-generator
-First project of randon colour generator 08/03/2022
+# Random Colour Generator
+
+- Module title = Front-end Web Development
+- Lecturer name = Brendan Munnelly
+- Link: https://www.munnelly.com/javascript/index.html
